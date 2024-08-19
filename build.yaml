@@ -20,6 +20,6 @@ include:
   - uses: actions/upload-artifact@v4
   with:
     name: lily58_left nice_view_adapter nice_view
-    path: lily58-wireless-view-zmk-configt
+    path: dist
 
             
