@@ -19,7 +19,7 @@ include:
     shield: lily58_right nice_view_adapter nice_view
   - uses: actions/upload-artifact@v4
   with:
-    name: my-artifacts
+    name: lily58_left nice_view_adapter nice_view
     path: lily58-wireless-view-zmk-configt
 
             
